@@ -1,0 +1,14 @@
+name: basic-shiny-app
+title: basic-shiny-app
+username:
+account: axb2860
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352695
+bundleId: 6862165
+url: https://axb2860.shinyapps.io/basic-shiny-app/
+when: 1676760374.44758
+lastSyncTime: 1676760374.44759
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
